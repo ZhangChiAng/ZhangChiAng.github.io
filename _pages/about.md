@@ -9,13 +9,13 @@ redirect_from:
 
 ## Education
 
-<p><b>Shenzhen Universoty</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2024.06 ~ present</p>
+**Shenzhen University** (2024.06 ~ present)
 
 Current student in ME Computer Technology, GUANGMING LABORATOTY
 
 + Adivisor: LaiZhong Cui, QiHua Zhou
 
-<p><b>Huazhong University of Science and Technology</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2019.09 ~ 2023.06</p>
+**Huazhong University of Science and Technology** (2019.09 ~ 2023.06)
 
 BE in Integrated Circuit Design and Integrated System, School of Integrated Circuit
 
