@@ -8,7 +8,21 @@ redirect_from:
 ---
 
 ## Education
-**Shenzhen Universoty**
-2024.06 ~ present
+
+<p><b>Shenzhen Universoty</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2024.06 ~ present</p>
+
 Current student in ME Computer Technology, GUANGMING LABORATOTY
+
 + Adivisor: LaiZhong Cui, QiHua Zhou
+
+<p><b>Huazhong University of Science and Technology</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2019.09 ~ 2023.06</p>
+
+BE in Integrated Circuit Design and Integrated System, School of Integrated Circuit
+
++ Relevant Courses: Principles of Computer Composition, C/C++ Programming
+
+## Skills and Interests
+
++ Languages: Python, C/C++, Java
++ Framesorls: PyTorch
++ Interests: Edge AI, Neural Video, Efficient Learning, Tiny ML
