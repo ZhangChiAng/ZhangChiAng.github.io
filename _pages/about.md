@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "ChiAng Zhang"
+title: "Chiang Zhang"
 author_profile: true
 redirect_from: 
   - /about/
@@ -13,7 +13,7 @@ redirect_from:
 
 Current student in ME Computer Technology, GUANGMING LABORATOTY
 
-+ Supervisors: LaiZhong Cui, QiHua Zhou
++ Supervisors: Laizhong Cui, Qihua Zhou
 
 **Huazhong University of Science and Technology** (2019.09 ~ 2023.06)
 
