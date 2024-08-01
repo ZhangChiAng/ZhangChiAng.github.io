@@ -13,7 +13,7 @@ redirect_from:
 
 Current student in ME Computer Technology, GUANGMING LABORATOTY
 
-+ Adivisor: LaiZhong Cui, QiHua Zhou
++ Supervisors: LaiZhong Cui, QiHua Zhou
 
 **Huazhong University of Science and Technology** (2019.09 ~ 2023.06)
 
