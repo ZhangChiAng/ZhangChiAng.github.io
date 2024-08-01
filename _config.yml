@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Homepage"
 title_separator          : "-"
-name                     : &name "ChiAng Zhang"
+name                     : &name "Chiang Zhang"
 description              : &description "personal description"
 url                      : https://ZhangChiAng.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "ZhangChiAng/ZhangChiAng.github.io"
 author:
   # Biographic information
   avatar           : "zhangchiang.png"
-  name             : "ChiAng Zhang"  
+  name             : "Chiang Zhang"  
   bio              : "Welcome to my homepage!"
   location         : "China"
   employer         : "Shenzhen University"
