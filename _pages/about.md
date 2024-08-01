@@ -24,5 +24,5 @@ BE in Integrated Circuit Design and Integrated System, School of Integrated Circ
 ## Skills and Interests
 
 + Languages: Python, C/C++, Java
-+ Framesorls: PyTorch
++ Frameworks: PyTorch
 + Interests: Edge AI, Neural Video, Efficient Learning, Tiny ML
