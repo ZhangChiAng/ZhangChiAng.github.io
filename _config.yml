@@ -21,9 +21,9 @@ repository               : "ZhangChiAng/ZhangChiAng.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "zhangchiang.png"
   name             : "ChiAng Zhang"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Welcome to my homepage!"
   location         : "China"
   employer         : "Shenzhen University"
   uri              : # URL
