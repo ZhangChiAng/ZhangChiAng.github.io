@@ -13,7 +13,7 @@ redirect_from:
 
 Current student in ME Computer Technology, GUANGMING LABORATOTY
 
-+ Supervisors: Laizhong Cui, Qihua Zhou
++ Supervisor(s): [Dr. Qihua Zhou](https://csse.szu.edu.cn/pages/user/index?id=1309), [Prof. Laizhong Cui](https://csse.szu.edu.cn/staff/cuilz/eng/index.html)
 
 **Huazhong University of Science and Technology** (2019.09 ~ 2023.06)
 
